@@ -1,4 +1,4 @@
-import sqlite3 
+import oracledb 
 import numpy as np
 def inserir (criptografia_desc,alfabeto,chave):
     
